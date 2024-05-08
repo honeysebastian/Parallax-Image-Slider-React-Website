@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import footer_logo from '../assets/logo.png'
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+
 
 function Footer() {
   useEffect(() => {

@@ -3,7 +3,7 @@ import about1 from '../assets/travel.gif'
 import about2 from '../assets/about2.gif'
 import about3 from '../assets/about3.gif'
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+
 
 function About() {
     useEffect(() => {
